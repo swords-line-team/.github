@@ -7,6 +7,8 @@ Affrontez d'autres joueurs en temps réel dans une arène dynamique à l'épée 
 
 🎮 [Jouer maintenant](http://ns321435.ip-37-187-155.eu:3000)
 
+📖 [Voir le Wiki du jeu](https://github.com/swords-line-team/swords-line-web/wiki)
+
 ---
 
 ## 🎮 Gameplay
